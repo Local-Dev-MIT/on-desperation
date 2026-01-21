@@ -1,0 +1,28 @@
+{
+  "term": "Spring",
+  "year": "2026",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "on-desperation"
+  },
+  "course_image": {
+    "content": "",
+    "website": "on-desperation"
+  },
+  "course_title": "On Desperation",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "A course on deperation",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "DESPO100",
+  "learning_resource_types": [],
+  "site_uid": "43ca9d31-8bbf-4d2b-a6e6-4a3285aba52f",
+  "site_short_id": "on-desperation",
+  "site_url_path": "courses/despo100-on-desperation-spring-2026"
+}
