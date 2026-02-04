@@ -3,15 +3,16 @@ leftnav:
   name: Benatar
   pageRef: /pages/davud-benatar
   weight: 10
-- identifier: 37e21794-6153-42f9-b671-50e9942859f0
-  name: Despo
-  pageRef: /pages/schopanhauer
-  weight: 20
 - identifier: 2ae66709-94f9-4bbd-87d5-61632ed86f11
   name: Flying Beast
   pageRef: /pages/nietzche
   parent: a959bbf2-52cc-4354-a472-4ec98c677987
   weight: 10
+- identifier: 37e21794-6153-42f9-b671-50e9942859f0
+  name: Despo
+  pageRef: /pages/schopanhauer
+  parent: a959bbf2-52cc-4354-a472-4ec98c677987
+  weight: 20
 - identifier: ee96b490-8b95-471d-ae67-bd563b508bad
   name: Haha
   pageRef: /pages/how-to-be-happy
